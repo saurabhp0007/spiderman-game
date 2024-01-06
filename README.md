@@ -13,7 +13,7 @@
 - A web browser
 - File extractor (normally you can extract with the system software or you can use WinRar and etc.)
 ---
-## Used langs
+## Used languages
 - Javascript
 - HTML5
 - CSS3
